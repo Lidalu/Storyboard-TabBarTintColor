@@ -1,7 +1,7 @@
 由于StoryBoard故事板对Tabbar的tinColor更改无效，因此自定义一个可视化类，方便StoryBoard对Tabbar的开发，提高StoryBoard的开发效率。
 先看下效果：
 
-![storyboard面板](http://img.blog.csdn.net/20160224094814135)
+![storyboard面板](http://img.blog.csdn.net/20160224094356252)
 
 
 ![运行结果](http://img.blog.csdn.net/20160224094829222)
